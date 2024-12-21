@@ -7,7 +7,10 @@ Think about Amazon putting a lot of time and effort into finding the right Princ
 ## Architecture
 ![Flow Architecture](FlowChart.png)
 
-
+## Implementation
+![Demo1](images/img1.png)
+![Demo2](images/img2.png)
+![Demo3](images/img3.png)
 ## Getting Started
 
 Follow these steps to set up the project on your local machine.
