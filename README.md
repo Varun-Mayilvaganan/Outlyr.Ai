@@ -1,2 +1,2 @@
 # Outlyr.AI
-AI-powered tool for crafting personalized cold emails based on company job descriptions and service needs. Streamline outreach for recruitment, service proposals and business partnerships with tailored, effective communication.
+An innovative cold email generator designed for service companies, powered by Groq, LangChain, and Streamlit. Simply provide the URL of a company's careers page, and the tool intelligently extracts job listings to craft highly personalized emails. Each email is enriched with portfolio links dynamically sourced from a vector database, ensuring alignment with the job's unique requirements
