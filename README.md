@@ -5,7 +5,7 @@ An innovative cold email generator designed for service companies, powered by Gr
 Think about Amazon putting a lot of time and effort into finding the right Principal Software Engineer. They’re not just posting job listings, but reviewing countless resumes, having in-depth interviews, and then investing in onboarding and training to make sure the new hire truly thrives in the team.
 
 ## Architecture
-
+![Flow Architecture](FlowChart.png)
 
 
 ## Getting Started
