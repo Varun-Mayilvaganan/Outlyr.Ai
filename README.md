@@ -55,3 +55,30 @@ Once the dependencies are installed, you can run the Streamlit app to launch the
   ```
   
 This will open the Streamlit application in your default web browser, and you'll be able to start generating personalized cold emails.
+
+## Contributing
+
+We welcome contributions! If you'd like to help improve the project, feel free to fork the repository and submit pull requests. Here are some ways you can contribute:
+
+- Reporting bugs
+- Adding new features
+- Improving documentation
+- Fixing issues or typos in code
+
+To contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them.
+4. Submit a pull request with a description of your changes.
+
+## Contact
+
+For any questions or feedback, feel free to reach out to me [varunmayilvaganan11@gmail.com](mailto:varunmayilvaganan11@gmail.com). You can also open an issue in the GitHub repository if you encounter any problems.
+
+---
+
+## Acknowledgements
+
+- [ChatGroq](https://python.langchain.com/docs/integrations/chat/groq/) for providing the API.
+- [LangChain](https://www.langchain.com/) for simplifying the integration of AI models.
+- [Streamlit](https://streamlit.io/) for enabling the easy creation of interactive web applications.
