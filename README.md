@@ -5,3 +5,50 @@ An innovative cold email generator designed for service companies, powered by Gr
 Think about Amazon putting a lot of time and effort into finding the right Principal Software Engineer. They’re not just posting job listings, but reviewing countless resumes, having in-depth interviews, and then investing in onboarding and training to make sure the new hire truly thrives in the team.
 
 ## Architecture
+
+
+
+## Getting Started
+
+Follow these steps to set up the project on your local machine.
+
+### 1. Obtain an API Key
+
+To use the Groq API, you need to create an API key:
+
+- Go to [Groq API Key](https://console.groq.com/keys).
+- Sign up or log in to your Groq account.
+- Create a new API key and copy it.
+
+### 2. Configure the Environment Variables
+
+The project requires the Groq API key to interact with the Groq service. To configure the API key:
+
+- Navigate to the `app/` folder in your project directory.
+- Locate the `.env` file (you may need to create this file if it doesn't already exist).
+- Add the following line to the `.env` file:
+  ```text
+  GROQ_API_KEY=your_api_key_here
+  ```
+  - Replace `your_api_key_here` with the API key you obtained in step 1.
+
+### 3. Install Project Dependencies
+
+Before running the app, you'll need to install the required dependencies. Make sure you have Python 3.7 or later installed.
+
+- Open a terminal or command prompt in the root directory of the project.
+- Run the following command to install all the necessary libraries:
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+### 4. Run the Streamlit Application
+
+Once the dependencies are installed, you can run the Streamlit app to launch the tool.
+
+- In the terminal, execute the following command:
+  ```bash
+  streamlit run app/main.py
+  ```
+  
+This will open the Streamlit application in your default web browser, and you'll be able to start generating personalized cold emails.
